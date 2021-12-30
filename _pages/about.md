@@ -8,7 +8,7 @@ profile:
   align: right
   image: ahcene_nb.jpeg
   address: >
-#    <p>Uppsala University</p>
+#    <p>University in Tromsø</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
