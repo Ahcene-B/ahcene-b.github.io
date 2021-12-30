@@ -21,7 +21,7 @@ I am a postdoctoral researcher at the [Machine Learning group](https://machine-l
 
 Prior to joining the UiT, I was a PhD student at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
 
-I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie (France) [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp).
+I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie, Paris 6, now aka [Sorbonne Université](https://www.sorbonne-universite.fr/)🤷.
 
 
 ### research interests
