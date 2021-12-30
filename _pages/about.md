@@ -6,7 +6,7 @@ description: Postdoctoral Researcher # @ <a href="http://www.leuphana.de/en/home
 
 profile:
   align: right
-  image: ahcene_nb.jpeg
+  image: ahcene_nb.jpg
   address: >
 #    <p>University in Tromsø</p>
 
