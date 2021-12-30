@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral Researcher # @ <a href="http://www.leuphana.de/en/home.html">Leuphana University</a>
+description: Postdoctoral Researcher # @ <a href="http://www.leuphana.de/en/home.html">UiT The Arctic University of Norway</a>
 
 profile:
   align: right
-  image: sebastian.jpeg
+  image: ahcene_nb.jpeg
   address: >
 #    <p>Uppsala University</p>
 
@@ -17,16 +17,16 @@ social: true  # includes social icons at the bottom of the page
 
 ### about me
 
-I am a postdoctoral researcher at the [Department of Information Technology](https://www.it.uu.se/) at [Uppsala University](https://www.uu.se/en). 
+I am a postdoctoral researcher at the [Machine Learning group](https://machine-learning.uit.no/) at [University in Tromsø (Norway)](https://www.uit.no/en). 
 
-Prior to joining Uppsala University, I was a PhD student at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
+Prior to joining the UiT, I was a PhD student at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
 
-I received a Master of Science in computer science as well as a Bachelor of Science in mathematics from [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and a Bachelor of Science in computer science from [Hochschule Darmstadt University of Applied Sciences](https://h-da.de/en/).
+I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie (France) [Technische Universität Darmstadt](https://www.tu-darmstadt.de/index.en.jsp).
 
 
 ### research interests
 
-I am interested in unsupervised learning, representation learning, representative subsets, (geometric) data summarization, generative modeling, probabilistic modeling, and statistical machine learning.
+I am interested in unsupervised learning, representation learning, generative models, probabilistic models, user modeling and understanding, education data mining.
 
 
 ### publications
