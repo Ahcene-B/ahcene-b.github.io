@@ -25,7 +25,11 @@
 // Profile
 .profile {
   img {
-    width: 50%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 150px;
   }
 }
 
