@@ -42,7 +42,7 @@ I am interested in unsupervised learning, representation learning, generative mo
   </li>
 
   <li>
-    A. Boubekki, J. Nordhaugmyhre, L. T. Luppino, K. O. Mikalsen, A. Revhaug, R. Jenssen. Clinically relevant features for predicting the severity of surgical site infections. IEEE Journal of Biomedical and Health Informatics, 2021. [<a href="https://ieeexplore.ieee.org/abstract/document/9580628">link</a>]
+    A. Boubekki, J. Nordhaug Myhre, L. T. Luppino, K. O. Mikalsen, A. Revhaug, R. Jenssen. Clinically relevant features for predicting the severity of surgical site infections. IEEE Journal of Biomedical and Health Informatics, 2021. [<a href="https://ieeexplore.ieee.org/abstract/document/9580628">link</a>]
   </li>
 
   <li>
