@@ -33,6 +33,11 @@ I am interested in unsupervised learning, representation learning, generative mo
 
 <ul>
   <li>
+    S. Gautam, A. Boubekki, S. Hansen, S. A. Salahuddin, R. Jenssen, M. Höhne, M. Kampffmeyer. ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model.  Advances in Neural Information Processing Systems, 2022. [<a href="https://arxiv.org/pdf/2210.08151">link</a>]
+  </li>
+
+  
+  <li>
     A. Boubekki, M. Kampffmeyer, U. Brefeld, R. Jenssen. Joint optimization of an autoencoder for clustering and embedding. Machine Learning, 2021. [<a href="https://link.springer.com/article/10.1007/s10994-021-06015-5">link</a>]
   </li>
 
