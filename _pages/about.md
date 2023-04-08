@@ -33,6 +33,21 @@ I am interested in unsupervised learning, representation learning, generative mo
 
 <ul>
   <li>
+    K.K. Wickstrøm, D.J. Trosten, S. Løkse, A. Boubekki, K.Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. <i>RELAX: Representation Learning Explainability.</i>  International Journal of Computer Vision, 1-27, 2023.
+  </li>
+  
+  
+  <li>
+    D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. SuperCM: Revisiting Clustering for Semi-Supervised Learning. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. 
+  </li>
+  
+  
+  <li>
+    A. Blázquez-García, K.K. Wickstrøm, S. Yu, K.Ø. Mikalsen, A. Boubekki, A. Conde, U. Mori, R. Jenssen, J. A. Lozano. Selective Imputation for Multivariate Time Series Datasets with Missingc Values. IEEE Transactions on Knowledge and Data Engineering, 2023.
+  </li>
+  
+  
+  <li>
     S. Gautam, A. Boubekki, S. Hansen, S. A. Salahuddin, R. Jenssen, M. Höhne, M. Kampffmeyer. ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model.  Advances in Neural Information Processing Systems, 2022. [<a href="https://arxiv.org/pdf/2210.08151">link</a>]
   </li>
 
