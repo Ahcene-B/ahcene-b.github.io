@@ -21,7 +21,7 @@ I am a postdoctoral researcher at the [Machine Learning and Uncertainty group](h
 
 Prior to joining the PTB, I was a postdoctoral researcher at the [Machine Learning group](https://machine-learning.uit.no/) at [University in Tromsø (Norway)](https://www.uit.no/en). 
 
-I did my PhD at the [machine learning group](http://ml3.leuphana.de/team.html) under te supervision of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
+I did my PhD at the [Machine Learning Group](http://ml3.leuphana.de/team.html) under te supervision of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
 
 I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie, Paris 6, now aka [Sorbonne Université](https://www.sorbonne-universite.fr/)🤷.
 
@@ -34,9 +34,6 @@ I am interested in explainable ai, unsupervised learning, representation learnin
 ### publications
 
 <ul>
-  <li>
-    
-  </li>
   <li>
     R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. <i> Pantypes: Diverse Representatives for Self-Explainable Models.</i> AAAI Conference on Artificial Intelligence (2024). [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/Pantypes_AAAI.pdf">link</a>]
   <li>
