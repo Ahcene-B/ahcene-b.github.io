@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### about me
 
-I am a postdoctoral researcher at the [Machine Learning and Uncertainty group]([https://machine-learning.uit.no/](https://www.ptb.de/cms/en/ptb/fachabteilungen/abt8/fb-84/ag-844.html) at [Physikalisch-Technische Bundesanstalt (Berlin)](https://www.ptb.de). 
+I am a postdoctoral researcher at the [Machine Learning and Uncertainty group](https://www.ptb.de/cms/en/ptb/fachabteilungen/abt8/fb-84/ag-844.html) at [Physikalisch-Technische Bundesanstalt (Berlin)](https://www.ptb.de). 
 
 Prior to joining the PTB, I was a postdoctoral researcher at the [Machine Learning group](https://machine-learning.uit.no/) at [University in Tromsø (Norway)](https://www.uit.no/en). 
 
