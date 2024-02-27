@@ -35,13 +35,13 @@ I am interested in explainable ai, unsupervised learning, representation learnin
 
 <ul>
   <li>
-    R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. <i> Pantypes: Diverse Representatives for Self-Explainable Models.</i> AAAI Conference on Artificial Intelligence (2024). [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/Pantypes_AAAI.pdf">link</a>]
+    R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. Pantypes: Diverse Representatives for Self-Explainable Models. AAAI Conference on Artificial Intelligence (2024). [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/Pantypes_AAAI.pdf">link</a>]
   <li>
-    K.V. Olesen, A. Boubekki, M.C. Kampffmeyer, R. Jenssen, A.N. Christensen, S. Hørlück, L.H. Clemmensen. <i>A Contextually Supported Abnormality Detector for Maritime Trajectories. </i> Journal of Marine Science and
+    K.V. Olesen, A. Boubekki, M.C. Kampffmeyer, R. Jenssen, A.N. Christensen, S. Hørlück, L.H. Clemmensen. A Contextually Supported Abnormality Detector for Maritime Trajectories. Journal of Marine Science and
 Engineering (2023). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
   </li>
   <li>
-    K.K. Wickstrøm, D.J. Trosten, S. Løkse, A. Boubekki, K.Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. <i>RELAX: Representation Learning Explainability.</i>  International Journal of Computer Vision, 1-27, 2023.[<a href="https://link.springer.com/content/pdf/10.1007/s11263-023-01773-2.pdf">link</a>]
+    K.K. Wickstrøm, D.J. Trosten, S. Løkse, A. Boubekki, K.Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. RELAX: Representation Learning Explainability. International Journal of Computer Vision, 1-27, 2023.[<a href="https://link.springer.com/content/pdf/10.1007/s11263-023-01773-2.pdf">link</a>]
   </li>
   
   
