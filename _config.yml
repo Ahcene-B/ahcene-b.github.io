@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ahcène
 middle_name: 
 last_name: Boubekki
-email: ahcene.boubekki@uit.no
+email: ahcene.boubekki@proton.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website of Ahcene Boubekki       
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -52,7 +52,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: ahcene-b # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: ahcene-boubekki # your LinkedIn user name
 scholar_userid: fpVjl4gAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-1606-1513 # your ORCID ID
 medium_username: # your Medium username
