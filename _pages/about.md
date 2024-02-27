@@ -17,33 +17,44 @@ social: true  # includes social icons at the bottom of the page
 
 ### about me
 
-I am a postdoctoral researcher at the [Machine Learning group](https://machine-learning.uit.no/) at [University in Tromsø (Norway)](https://www.uit.no/en). 
+I am a postdoctoral researcher at the [Machine Learning and Uncertainty group]([https://machine-learning.uit.no/](https://www.ptb.de/cms/en/ptb/fachabteilungen/abt8/fb-84/ag-844.html) at [Physikalisch-Technische Bundesanstalt (Berlin)](https://www.ptb.de). 
 
-Prior to joining the UiT, I was a PhD student at the [machine learning group](http://ml3.leuphana.de/team.html) of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
+Prior to joining the PTB, I was a postdoctoral researcher at the [Machine Learning group](https://machine-learning.uit.no/) at [University in Tromsø (Norway)](https://www.uit.no/en). 
+
+I did my PhD at the [machine learning group](http://ml3.leuphana.de/team.html) under te supervision of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
 
 I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie, Paris 6, now aka [Sorbonne Université](https://www.sorbonne-universite.fr/)🤷.
 
 
 ### research interests
 
-I am interested in unsupervised learning, representation learning, generative models, probabilistic models, user modeling and understanding, education data mining.
+I am interested in explainable ai, unsupervised learning, representation learning, generative models, probabilistic models, user modeling and understanding, education data mining.
 
 
 ### publications
 
 <ul>
   <li>
-    K.K. Wickstrøm, D.J. Trosten, S. Løkse, A. Boubekki, K.Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. <i>RELAX: Representation Learning Explainability.</i>  International Journal of Computer Vision, 1-27, 2023.
+    
+  </li>
+  <li>
+    R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. <i> Pantypes: Diverse Representatives for Self-Explainable Models.</i> AAAI Conference on Artificial Intelligence (2024). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
+  <li>
+    K.V. Olesen, A. Boubekki, M.C. Kampffmeyer, R. Jenssen, A.N. Christensen, S. Hørlück, L.H. Clemmensen. <i>A Contextually Supported Abnormality Detector for Maritime Trajectories. </i> Journal of Marine Science and
+Engineering (2023). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
+  </li>
+  <li>
+    K.K. Wickstrøm, D.J. Trosten, S. Løkse, A. Boubekki, K.Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. <i>RELAX: Representation Learning Explainability.</i>  International Journal of Computer Vision, 1-27, 2023.[<a href="https://link.springer.com/content/pdf/10.1007/s11263-023-01773-2.pdf">link</a>]
   </li>
   
   
   <li>
-    D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. SuperCM: Revisiting Clustering for Semi-Supervised Learning. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. 
+    D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. SuperCM: Revisiting Clustering for Semi-Supervised Learning. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. [<a href="https://sigport.org/sites/default/files/docs/ICASSP_2k23.pdf">link</a>]
   </li>
   
   
   <li>
-    A. Blázquez-García, K.K. Wickstrøm, S. Yu, K.Ø. Mikalsen, A. Boubekki, A. Conde, U. Mori, R. Jenssen, J. A. Lozano. Selective Imputation for Multivariate Time Series Datasets with Missingc Values. IEEE Transactions on Knowledge and Data Engineering, 2023.
+    A. Blázquez-García, K.K. Wickstrøm, S. Yu, K.Ø. Mikalsen, A. Boubekki, A. Conde, U. Mori, R. Jenssen, J. A. Lozano. Selective Imputation for Multivariate Time Series Datasets with Missingc Values. IEEE Transactions on Knowledge and Data Engineering, 2023. [<a href="https://munin.uit.no/bitstream/handle/10037/31585/article.pdf">link</a>]
   </li>
   
   
