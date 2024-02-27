@@ -38,7 +38,7 @@ I am interested in explainable ai, unsupervised learning, representation learnin
     
   </li>
   <li>
-    R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. <i> Pantypes: Diverse Representatives for Self-Explainable Models.</i> AAAI Conference on Artificial Intelligence (2024). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
+    R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. <i> Pantypes: Diverse Representatives for Self-Explainable Models.</i> AAAI Conference on Artificial Intelligence (2024). [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/Pantypes_AAAI.pdf">link</a>]
   <li>
     K.V. Olesen, A. Boubekki, M.C. Kampffmeyer, R. Jenssen, A.N. Christensen, S. Hørlück, L.H. Clemmensen. <i>A Contextually Supported Abnormality Detector for Maritime Trajectories. </i> Journal of Marine Science and
 Engineering (2023). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
