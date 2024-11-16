@@ -35,16 +35,21 @@ I am interested in explainable ai, unsupervised learning, representation learnin
 
 <ul>
 
-  <li>
-    S. Gautam, A. Boubekki, M. Höhne, M. Kampffmeyer . Prototypical Self-Explainable Models Without Re-training. Transactions on Machine Learning Research (2024). [<a href="https://openreview.net/pdf?id=HU5DOUp6Sa">link</a>]
-  <li>
-    
-  <li>
-    R. Clark et al. EXACT: Towards a platform for empirically benchmarking Machine Learning model explanation methods (2024). [<a href="https://arxiv.org/pdf/2405.12261">link</a>]
-  <li>
+  <li> S. Haufe, R. Wilming, B. Clark, R. Zhumagambetov, D. Panknin, A. Boubekki. Explainable AI needs formal notions of explanation correctness. Intepretable AI Workshop @ NeurIPS (2024) [<a href="https://arxiv.org/pdf/2409.14590">link</a>]
+  </li>
+
+  <li> A. Boubekki, S. Fadel, S.Mair. Leveraging Activations for Superpixel Explanations. ArXiv [<a href="https://arxiv.org/pdf/2406.04933">link</a>]
+  </li>
   
   <li>
+    S. Gautam, A. Boubekki, M. Höhne, M. Kampffmeyer . Prototypical Self-Explainable Models Without Re-training. Transactions on Machine Learning Research (2024). [<a href="https://openreview.net/pdf?id=HU5DOUp6Sa">link</a>]
+  </li>
+  <li>
+    R. Clark et al. EXACT: Towards a platform for empirically benchmarking Machine Learning model explanation methods (2024). [<a href="https://arxiv.org/pdf/2405.12261">link</a>]
+  </li>
+  <li>
     R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. Pantypes: Diverse Representatives for Self-Explainable Models. AAAI Conference on Artificial Intelligence (2024). [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/Pantypes_AAAI.pdf">link</a>]
+  </li>
   <li>
     K.V. Olesen, A. Boubekki, M.C. Kampffmeyer, R. Jenssen, A.N. Christensen, S. Hørlück, L.H. Clemmensen. A Contextually Supported Abnormality Detector for Maritime Trajectories. Journal of Marine Science and
 Engineering (2023). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
