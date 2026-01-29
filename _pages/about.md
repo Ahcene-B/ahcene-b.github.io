@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### about me
+## about me
 
 I am a postdoctoral researcher at the [Statistics and Probability section]([https://www.ptb.de/cms/en/ptb/fachabteilungen/abt8/fb-84/ag-844.html](https://www.math.ku.dk/english/)) of the Mathematics department of the [University of Copenhagen](https://www.ku.dk) and a research fellow at the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/). 
 
@@ -24,12 +24,12 @@ I did my PhD at the [Machine Learning Group](http://ml3.leuphana.de/team.html) u
 I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie, Paris 6, now aka [Sorbonne Université](https://www.sorbonne-universite.fr/)🤷.
 
 
-### research interests
+## research interests
 
 I am interested in explainable representation learning, unsupervised learning, generative models, probabilistic models, user modeling and understanding, education data mining.
 
 
-### talks
+## talks
 
 You can find most of my slides [here](http://slides.com./ahcene).
 
@@ -45,7 +45,7 @@ You can find most of my slides [here](http://slides.com./ahcene).
 #### Lessons
   <iframe src="https://slides.com/ahcene/from-clust-to-deep-clust/embed" width="320" height="240" title="From Clustering to Deep Clustering" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://slides.com/ahcene/multi-lin-regr/embed" width="320" height="240" title="Multiple Linear Regression" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://slides.com/ahcene/semaine-de-la-science/embed" width="320" height="240" title="Semaine de la Science" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### publications
+## publications
 
 <ul>
   <li>
