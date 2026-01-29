@@ -33,6 +33,8 @@ I am interested in explainable representation learning, unsupervised learning, g
 
 You can find most of my slides [here](http://slides.com./ahcene).
 
+<iframe src="https://slides.com/ahcene/sem/embed" width="480" height="320" title="Self Explainable Models" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen
+  sandbox="allow-scripts"></iframe>
 
 ### publications
 
