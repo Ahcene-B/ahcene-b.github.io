@@ -48,6 +48,12 @@ You can find most of my slides [here](http://slides.com./ahcene).
 ## publications
 
 <ul>
+  <li> 
+    A. Boubekki,S. Fadel, S. Mair. Multi-Depth Concept Extraction for Post-Hoc Vision Encoder Explanation. Proceedings of the European Conference on Machine Learning (2026). [<a href="https://arxiv.org/pdf/2411.19700">link</a>]
+  </li>
+  <li>
+    A. Boubekki, L. Clemmensen. Post-hoc Self-explanation of CNNs. ICLR 2026 Workshop on Unifying Concept Representation Learning (2026). [<a href="https://arxiv.org/pdf/2603.28466"> link</a>]
+  </li>
   <li>
     A. Boubekki, K. Patlatzoglou, J. Barker, F. Siong Ng, A. H. Ribeiro. Explaining deep learning for ECG using time-localized clusters. arXiv:2509.15198 (2025) [<a href="https://arxiv.org/abs/2509.15198v1">link</a>]
   </li>
