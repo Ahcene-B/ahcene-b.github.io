@@ -23,6 +23,8 @@ Prior to joining the UCPH, I was a postdoctoral researcher at the [QAI Labs](htt
 I did my PhD at the [Machine Learning Group](http://ml3.leuphana.de/team.html) under te supervision of [Ulf Brefeld](http://ml3.leuphana.de/ulf.html) at the [Leuphana University of Lüneburg](http://www.leuphana.de/en/home.html).
 I received a Master and a Bachelor in pure Mathematics from the University Pierre et Marie Curie, Paris 6, now aka [Sorbonne Université](https://www.sorbonne-universite.fr/)🤷.
 
+Here a [résumé](https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/ABoubekki_resume.pdf).
+
 
 ## research interests
 
@@ -34,16 +36,21 @@ I am interested in explainable representation learning, unsupervised learning, g
 You can find most of my slides [here](http://slides.com./ahcene).
 
 #### Presentations
+<iframe src="https://slides.com/ahcene/inspecting-vision-models/embed" width="320" height="240" title="Inspecting Vision Models" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 <iframe src="https://slides.com/ahcene/sem/embed" 
   width="320" height="240" 
   title="Prototypes and Self Explainable Models" 
   scrolling="no" 
   frameborder="0" 
   webkitallowfullscreen mozallowfullscreen allowfullscreen
-  sandbox="allow-scripts"></iframe> <iframe src="https://slides.com/ahcene/inspecting-vision-models/embed" width="320" height="240" title="Inspecting Vision Models" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://slides.com/ahcene/pantypes/embed" width="320" height="240" title="Pantypes" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://slides.com/ahcene/clustering-fast/embed" width="320" height="240" title="Clustering Fast" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  sandbox="allow-scripts"></iframe> 
+<iframe src="https://slides.com/ahcene/pantypes/embed" width="320" height="240" title="Pantypes" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://slides.com/ahcene/clustering-fast/embed" width="320" height="240" title="Clustering Fast" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### Lessons
-  <iframe src="https://slides.com/ahcene/from-clust-to-deep-clust/embed" width="320" height="240" title="From Clustering to Deep Clustering" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://slides.com/ahcene/multi-lin-regr/embed" width="320" height="240" title="Multiple Linear Regression" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://slides.com/ahcene/semaine-de-la-science/embed" width="320" height="240" title="Semaine de la Science" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://slides.com/ahcene/from-clust-to-deep-clust/embed" width="320" height="240" title="From Clustering to Deep Clustering" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+  <iframe src="https://slides.com/ahcene/multi-lin-regr/embed" width="320" height="240" title="Multiple Linear Regression" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+  <iframe src="https://slides.com/ahcene/semaine-de-la-science/embed" width="320" height="240" title="Semaine de la Science" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## publications
 
