@@ -3,6 +3,7 @@ layout: page
 title: AdMuter
 permalink: /software/admuter/
 description: An Android app that mutes YouTube ads.
+img: /assets/img/admuter.png
 software: true
 order: 2
 summary: >

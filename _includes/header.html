@@ -3,16 +3,17 @@
     <!-- Nav Bar -->
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
-      {% if page.title != "about" %}
-      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-       {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
-      </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
+      {% if site.enable_navbar_social %}
+        <!-- Social Icons, on every page -->
         <div class="navbar-brand social">
           {% include social.html %}
         </div>
       {% endif %}
+      <!-- The name, centred in the bar (hidden on narrow screens, where the menu collapses) -->
+      <a class="navbar-brand title font-weight-lighter d-none d-md-block" href="{{ site.baseurl | prepend: site.url }}/"
+         style="position: absolute; left: 50%; transform: translateX(-50%); margin: 0;">
+       {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+      </a>
       <!-- Navbar Toggle -->
       <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="sr-only">Toggle navigation</span>
@@ -43,7 +44,7 @@
           </li>
           {% endif %}
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          {% assign sorted_pages = site.pages | sort: "nav_order", "last" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           {% if p.dropdown %}

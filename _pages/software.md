@@ -4,6 +4,7 @@ title: software
 permalink: /software/
 description: Open-source tools from my research.
 nav: true
+nav_order: 3
 ---
 
 <!-- Each software has its own page in _pages/software/, with "software: true" in its front matter (and
@@ -16,8 +17,8 @@ nav: true
       <div class="card h-100">
         {% if s.img %}<img src="{{ s.img }}" class="card-img-top" alt="{{ s.title }}">{% endif %}
         <div class="card-body">
-          <h4 class="card-title">{{ s.title }}</h4>
-          <p class="card-text">{{ s.summary }}</p>
+          <h4 class="card-title" style="color: #000;">{{ s.title }}</h4>
+          <p class="card-text" style="color: #333;">{{ s.summary }}</p>
         </div>
       </div>
     </a>

@@ -4,6 +4,7 @@ title: talks
 permalink: /talks/
 description: Presentations and lessons.
 nav: true
+nav_order: 2
 ---
 
 You can find most of my slides [here](http://slides.com./ahcene).
