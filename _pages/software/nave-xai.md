@@ -39,7 +39,7 @@ pip install "nave-xai @ git+https://github.com/Ahcene-B/NAVE.git"
 
 ### Try it in your browser
 
-Every notebook opens in Google Colab and installs what it needs in its first cell (a Google account is needed; the
+All 22 notebooks open in Google Colab and installs what it needs in its first cell (a Google account is needed; the
 training notebooks are best run with a GPU: *Runtime › Change runtime type*).
 
 **Getting started**
@@ -77,3 +77,4 @@ training notebooks are best run with a GPU: *Runtime › Change runtime type*).
 | Concepts as features | Classifying images from their concepts' proportions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahcene-B/NAVE/blob/main/notebooks/inspecting/06_concept_features.ipynb) |
 | Localization | Boxes around objects from NAVE's regions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahcene-B/NAVE/blob/main/notebooks/inspecting/07_localization.ipynb) |
 | Uncertainty | Where the encoder hesitates | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahcene-B/NAVE/blob/main/notebooks/inspecting/08_uncertainty.ipynb) |
+| Causality | Do the concepts that come with a class drive its score? Interventions in a ResNet50 and a ViT | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahcene-B/NAVE/blob/main/notebooks/inspecting/09_causality.ipynb) |
