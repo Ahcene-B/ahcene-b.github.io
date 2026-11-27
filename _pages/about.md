@@ -34,7 +34,6 @@ description: Ahcène Boubekki, postdoctoral researcher at the University of Cope
         <p class="demo-caption">My photo through <a href="https://github.com/Ahcene-B/NAVE">NAVE</a>, with a random CNN running in your browser.</p>
       </div>
     </div>
-  </div>
 </div>
 
   <section class="wrap block" aria-labelledby="questions-title">
