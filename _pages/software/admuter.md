@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: plain
 title: AdMuter
 permalink: /software/admuter/
 description: An Android app that mutes YouTube ads.
@@ -9,7 +9,12 @@ order: 2
 summary: >
   An Android app that detects ads in the YouTube app and, while they play, mutes them, turns them down, or plays
   a sound of your choice instead. No internet access, and it reads nothing but YouTube.
+tech: Android app, MIT license
 ---
+
+<h1 class="page-title">AdMuter</h1>
+<p class="page-lead">An Android app that mutes YouTube ads.</p>
+
 
 **Ads without the noise.** AdMuter detects ads in the YouTube Android app and, while an ad plays, does one of:
 

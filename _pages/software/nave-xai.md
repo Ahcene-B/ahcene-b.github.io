@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: plain
 title: nave-xai
 permalink: /software/nave-xai/
 description: Concept explanations of vision, time-series and text encoders.
@@ -9,7 +9,12 @@ summary: >
   NAVE explanations of frozen encoders (CNNs, ViTs, 1D models, text): which concepts they extract, and where.
   The official package of the ECML PKDD 2026 paper, with notebooks to run on Google Colab and a GIMP plugin.
 img: https://raw.githubusercontent.com/Ahcene-B/NAVE/main/docs/assets/example.png
+tech: Python package, MIT license
 ---
+
+<h1 class="page-title">nave-xai</h1>
+<p class="page-lead">Concept explanations of vision, time-series and text encoders.</p>
+
 
 <img src="https://raw.githubusercontent.com/Ahcene-B/NAVE/main/docs/assets/example.png" alt="NAVE explanations" style="width: 100%; max-width: 760px;">
 

@@ -1,114 +1,68 @@
 ---
-layout: page
+layout: plain
 title: publications
 permalink: /publications/
-description:
-nav: true
-nav_order: 1
+description: Publications of Ahcène Boubekki.
 ---
 
-<ul>
-  <li> 
-    A. Boubekki,S. Fadel, S. Mair. Multi-Depth Concept Extraction for Post-Hoc Vision Encoder Explanation. Proceedings of the European Conference on Machine Learning (2026). [<a href="https://arxiv.org/pdf/2411.19700">link</a>]
-  </li>
-  <li>
-    A. Boubekki, L. Clemmensen. Post-hoc Self-explanation of CNNs. ICLR 2026 Workshop on Unifying Concept Representation Learning (2026). [<a href="https://arxiv.org/pdf/2603.28466"> link</a>]
-  </li>
-  <li>
-    A. Boubekki, K. Patlatzoglou, J. Barker, F. Siong Ng, A. H. Ribeiro. Explaining deep learning for ECG using time-localized clusters. arXiv:2509.15198 (2025) [<a href="https://arxiv.org/abs/2509.15198v1">link</a>]
-  </li>
-  <li> 
-    D. Singh, A. Boubekki, Q. Cao, S. A. Aase, R. Jenssen, M. Kampffmeyer. WiseLVAM: A Novel Framework For Left Ventrical Automatic Measurements. The 6th International Workshop of Advances in Simplifying Medical UltraSound (ASMUS), MICCAI (2025).
-  </li>
-  <li> 
-    D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. SuperCM: Improving Semi-Supervised Learning and Domain Adaptation through differentiable clustering. Pattern Recognition, 112117 (2025)
-    [<a href="https://files.eric.ed.gov/fulltext/ED593110.pdf">link</a>]
-  </li>
-  <li> 
-    H. Rabus, N. Agarwal, A. Boubekki, Y.B. Varolgünes, B. Clark, C. Elster, ... Metrology for artificial intelligence in medicine. Measurement: Sensors, 101789 (2025)
-    [<a href="https://doi.org/10.1016/j.measen.2024.101789">link</a>]
-  </li>
-  <li> 
-    B. Clark, R. Wilming, A. Dox, P. Eschenbach, S. Hached, D.J. Wodke, ... EXACT: Towards a platform for empirically benchmarking machine learning model explanation methods. Measurement: Sensors, 101794 (2025)
-    [<a href="https://arxiv.org/abs/2405.12261">link</a>]
-  </li>
-  <li> 
-    A. Boubekki, S. Fadel, S. Mair. Explaining the Impact of Training on Vision Models via Activation Clustering. arXiv:2411.19700 (2025) [<a href="https://arxiv.org/pdf/2411.19700">link</a>]
-  </li>
-  <li> 
-    S. Haufe, R. Wilming, B. Clark, R. Zhumagambetov, D. Panknin, A. Boubekki. Explainable AI needs formal notions of explanation correctness. Intepretable AI Workshop @ NeurIPS (2024) [<a href="https://arxiv.org/pdf/2409.14590">link</a>]
-  </li>
-  <li> 
-    A. Boubekki, S. Fadel, S.Mair. Leveraging Activations for Superpixel Explanations. ArXiv [<a href="https://arxiv.org/pdf/2406.04933">link</a>]
-  </li>
-  <li>
-    S. Gautam, A. Boubekki, M. Höhne, M. Kampffmeyer . Prototypical Self-Explainable Models Without Re-training. Transactions on Machine Learning Research (2024). [<a href="https://openreview.net/pdf?id=HU5DOUp6Sa">link</a>]
-  </li>
-  <li>
-    R. Clark et al. EXACT: Towards a platform for empirically benchmarking Machine Learning model explanation methods (2024). [<a href="https://arxiv.org/pdf/2405.12261">link</a>]
-  </li>
-  <li>
-    R. Kjærsgaard, A. Boubekki, L.H. Clemmensen. Pantypes: Diverse Representatives for Self-Explainable Models. AAAI Conference on Artificial Intelligence (2024). [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/Pantypes_AAAI.pdf">link</a>]
-  </li>
-  <li>
-    K.V. Olesen, A. Boubekki, M.C. Kampffmeyer, R. Jenssen, A.N. Christensen, S. Hørlück, L.H. Clemmensen. A Contextually Supported Abnormality Detector for Maritime Trajectories. Journal of Marine Science and
-Engineering (2023). [<a href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">link</a>]
-  </li>
-  <li>
-    K.K. Wickstrøm, D.J. Trosten, S. Løkse, A. Boubekki, K.Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. RELAX: Representation Learning Explainability. International Journal of Computer Vision, 1-27, 2023.[<a href="https://link.springer.com/content/pdf/10.1007/s11263-023-01773-2.pdf">link</a>]
-  </li>
-  <li>
-    D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. SuperCM: Revisiting Clustering for Semi-Supervised Learning. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. [<a href="https://sigport.org/sites/default/files/docs/ICASSP_2k23.pdf">link</a>]
-  </li>
-  <li>
-    A. Blázquez-García, K.K. Wickstrøm, S. Yu, K.Ø. Mikalsen, A. Boubekki, A. Conde, U. Mori, R. Jenssen, J. A. Lozano. Selective Imputation for Multivariate Time Series Datasets with Missingc Values. IEEE Transactions on Knowledge and Data Engineering, 2023. [<a href="https://munin.uit.no/bitstream/handle/10037/31585/article.pdf">link</a>]
-  </li>
-  <li>
-    S. Gautam, A. Boubekki, S. Hansen, S. A. Salahuddin, R. Jenssen, M. Höhne, M. Kampffmeyer. ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model.  Advances in Neural Information Processing Systems, 2022. [<a href="https://arxiv.org/pdf/2210.08151">link</a>]
-  </li>
-  <li>
-    A. Boubekki, M. Kampffmeyer, U. Brefeld, R. Jenssen. Joint optimization of an autoencoder for clustering and embedding. Machine Learning, 2021. [<a href="https://link.springer.com/article/10.1007/s10994-021-06015-5">link</a>]
-  </li>
-  <li>
-    A. Boubekki, J. Nordhaug Myhre, L. T. Luppino, K. O. Mikalsen, A. Revhaug, R. Jenssen. Clinically relevant features for predicting the severity of surgical site infections. IEEE Journal of Biomedical and Health Informatics, 2021. [<a href="https://ieeexplore.ieee.org/abstract/document/9580628">link</a>]
-  </li>
-  <li>
-    I. Pandarova, T. Schmidt, J. Hartig, A. Boubekki, R. D. Jones, U. Brefeld, Predicting the difficulty of exercise items for dynamic difficulty adaptation in adaptive language tutoring. International Journal of Artificial Intelligence in Education, 2019. [<a href="https://link.springer.com/article/10.1007/s40593-019-00180-4">link</a>]
-  </li>
-  <li>
-    A. Boubekki, S. Jain, and U. Brefeld. Mining User Trajectories in Electronic Text Books. Proceedings of Educational Data Mining, 2018. [<a href="https://files.eric.ed.gov/fulltext/ED593110.pdf">link</a>]
-  </li>
-  <li>
-    J. Reubold, A. Boubekki, T. Strufe, and U. Brefeld. Infinite Mixtures of Markov Chains. New Frontiers in Mining Complex Patterns, LNAI 10785, Springer, 2018. [<a href="https://openreview.net/pdf?id=_lxJN02SXKQ">link</a>]
-  </li>
-  <li>
-    J. Reubold, A. Boubekki, T. Strufe, and U. Brefeld. Bayesian User Behavior Models. Proceedings of the ECML/PKDD Workshop on New Frontiers in Mining Complex Patterns, 2017. [<a href="http://www.di.uniba.it/~loglisci/NFmcp17/NFMCP_2017_paper_2.pdf">link</a>]
-  </li>
-  <li>
-    S. Mair, A. Boubekki, and U. Brefeld. Frame-based Data Factorizations. Proceedings of the International Conference on Machine Learning, 2017. [<a href="http://proceedings.mlr.press/v70/mair17a.html">link</a>]
-  </li>
-  <li>
-    S. Mair, A. Boubekki, and U. Brefeld. Frame-based Matrix Factorizations (abstract). Proceedings of the LWDA Workshop on Knowledge Discovery, Data Mining and Machine Learning (KDML), 2017.
-  </li>
-  <li>
-    A. Boubekki, C. L. Lucchesi, U. Brefeld, and W. Stille. Propagating Maximum Capacities for Recommendation. Proceedings of the German Conference on Artificial Intelligence, 2017. [<a href="https://mediatum.ub.tum.de/doc/1380314/ckn6u6a9ezuyoeg5iqf27q7ub.OnlineMultiObject.pdf#page=89">link</a>]
-  </li>
-  <li>
-    A. Boubekki, U. Kröhne, F. Goldhammer, W. Schreiber, and U. Brefeld. In S. Michaelis, N. Piatkowski, and M. Stolpe (Eds.): Data-Driven Analyses of Electronic Text Books. Solving Large Scale Learning Tasks. Challenges and Algorithms -- Essays Dedicated to Katharina Morik on the Occasion of Her 60th Birthday. Lecture Notes in Artificial Intelligence 9580, Springer, 362-376, 2016. 
-  </li>
-  <li>
-    Delacroix T., Boubekki A., Lenca P. and Lallich S., Constrained Independence for Detecting Interesting Patterns, Proceedings of the International Conference on Data Science and Advanced Analytics (DSAA), 2015. [<a href="https://ieeexplore.ieee.org/abstract/document/7344897">link</a>]
-  </li>
-  <li>
-    Boubekki A., Kröhne U., Goldhammer F., Schreiber W., Brefeld U., Toward Data-Driven Analyses of Electronic Text Books, Proceedings of the International Conference on Educational Data Mining, 2015. [<a href="https://doi.org/10.1007/978-3-319-41706-6_20">link</a>]
-  </li>
-  <li>
-    Boubekki A., Brefeld U. and Delacroix T., Generalising IRT to Discriminate Between Examinees, Proceedings of the International  Conference on Educational Data Mining, 2015. 
-  </li>
-  <li>
-    Boubekki A., Bengs D., Mining Implications From Data, Proceedings of the LWA 2014 Workshops: KDML, IR, FGWM, Aachen, Germany, September 8-10, 2014. 
-  </li>
-  <li>
-    Delacroix T., Boubekki A., An application of multiple behavior SIA for analyzing data from student exams, in The SIA Approach for Semantic and non-Symmetric Data Analysis, Régnier, Almouloud & Gras (Eds), Educaçao Matematica Pesquisa, Sao Paulo, v.16, n.3, pp.773-794, 2014. [<a href="https://github.com/Ahcene-B/ahcene-b.github.io/blob/main/_data/21579-Texto do artigo-55337-1-10-20141218.pdf">link</a>]
-  </li>
-</ul>
+<h1 class="page-title">Publications</h1>
+<p class="page-lead">Also on <a href="https://scholar.google.com/citations?user=fpVjl4gAAAAJ">Google Scholar</a>.</p>
+
+<h2>International journals</h2>
+<ol class="rows">
+  <li><span class="date">2026</span><div><a class="title" href="https://arxiv.org/abs/2509.15198" style="text-decoration: none">Explaining deep learning for ECG using time-localized clusters</a><span class="meta">A. Boubekki, K. Patlatzoglou, J. Barker, F. Siong Ng, A. H. Ribeiro. IEEE Transactions on Biomedical Engineering.</span></div><a class="go" href="https://arxiv.org/abs/2509.15198">Paper</a></li>
+  <li><span class="date">2026</span><div><span class="title">Explainable AI needs formalization</span><span class="meta">S. Haufe, R. Wilming, B. Clark, R. Zhumagambetov, A. Boubekki, J. Martin, D. Panknin. npj Artificial Intelligence 2, 42.</span></div><span></span></li>
+  <li><span class="date">2025</span><div><span class="title">SuperCM: Improving Semi-Supervised Learning and Domain Adaptation through differentiable clustering</span><span class="meta">D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. Pattern Recognition.</span></div><span></span></li>
+  <li><span class="date">2024</span><div><a class="title" href="https://openreview.net/pdf?id=HU5DOUp6Sa" style="text-decoration: none">Prototypical Self-Explainable Models Without Re-training</a><span class="meta">S. Gautam, A. Boubekki, M. M. Höhne, M. Kampffmeyer. Transactions on Machine Learning Research.</span></div><a class="go" href="https://openreview.net/pdf?id=HU5DOUp6Sa">Paper</a></li>
+  <li><span class="date">2023</span><div><a class="title" href="https://link.springer.com/content/pdf/10.1007/s11263-023-01773-2.pdf" style="text-decoration: none">RELAX: Representation Learning Explainability</a><span class="meta">K. K. Wickstrøm, D. J. Trosten, S. Løkse, A. Boubekki, K. Ø. Mikalsen, M. Kampffmeyer, R. Jenssen. International Journal of Computer Vision.</span></div><a class="go" href="https://link.springer.com/content/pdf/10.1007/s11263-023-01773-2.pdf">Paper</a></li>
+  <li><span class="date">2023</span><div><a class="title" href="https://www.mdpi.com/2077-1312/11/11/2085/pdf" style="text-decoration: none">A Contextually Supported Abnormality Detector for Maritime Trajectories</a><span class="meta">K. V. Olesen, A. Boubekki, M. Kampffmeyer, R. Jenssen, A. N. Christensen, S. Hørlück, L. H. Clemmensen. Journal of Marine Science and Engineering.</span></div><a class="go" href="https://www.mdpi.com/2077-1312/11/11/2085/pdf">Paper</a></li>
+  <li><span class="date">2023</span><div><a class="title" href="https://munin.uit.no/bitstream/handle/10037/31585/article.pdf" style="text-decoration: none">Selective Imputation for Multivariate Time Series Datasets with Missing Values</a><span class="meta">A. Blázquez-García, K. K. Wickstrøm, S. Yu, K. Ø. Mikalsen, A. Boubekki, A. Conde, U. Mori, R. Jenssen, J. A. Lozano. IEEE Transactions on Knowledge and Data Engineering.</span></div><a class="go" href="https://munin.uit.no/bitstream/handle/10037/31585/article.pdf">Paper</a></li>
+  <li><span class="date">2021</span><div><a class="title" href="https://ieeexplore.ieee.org/abstract/document/9580628" style="text-decoration: none">Clinically relevant features for predicting the severity of surgical site infections</a><span class="meta">A. Boubekki, J. Nordhaug Myhre, L. T. Luppino, K. Ø. Mikalsen, A. Revhaug, R. Jenssen. IEEE Journal of Biomedical and Health Informatics.</span></div><a class="go" href="https://ieeexplore.ieee.org/abstract/document/9580628">Paper</a></li>
+  <li><span class="date">2021</span><div><a class="title" href="https://link.springer.com/article/10.1007/s10994-021-06015-5" style="text-decoration: none">Joint optimization of an autoencoder for clustering and embedding</a><span class="meta">A. Boubekki, M. Kampffmeyer, U. Brefeld, R. Jenssen. Machine Learning.</span></div><a class="go" href="https://link.springer.com/article/10.1007/s10994-021-06015-5">Paper</a></li>
+  <li><span class="date">2019</span><div><a class="title" href="https://link.springer.com/article/10.1007/s40593-019-00180-4" style="text-decoration: none">Predicting the difficulty of exercise items for dynamic difficulty adaptation in adaptive language tutoring</a><span class="meta">I. Pandarova, T. Schmidt, J. Hartig, A. Boubekki, R. D. Jones, U. Brefeld. International Journal of Artificial Intelligence in Education 29(3).</span></div><a class="go" href="https://link.springer.com/article/10.1007/s40593-019-00180-4">Paper</a></li>
+  <li><span class="date">2014</span><div><a class="title" href="/assets/pdf/Delacroix_Boubekki_2014_SIA.pdf" style="text-decoration: none">An application of multiple behavior SIA for analyzing data from student exams</a><span class="meta">T. Delacroix, A. Boubekki. Educação Matemática Pesquisa 16(3), 773–794.</span></div><a class="go" href="/assets/pdf/Delacroix_Boubekki_2014_SIA.pdf">Paper</a></li>
+</ol>
+
+<h2>Reviewed international conferences</h2>
+<ol class="rows">
+  <li><span class="date">2027</span><div><span class="title">A five-step decomposition of how practitioners reason about the EU AI Act</span><span class="meta">A. Boubekki, O. Kokoulina, S. Das, L. H. Clemmensen. Innovative Applications of Artificial Intelligence (IAAI-27).</span></div><span></span></li>
+  <li><span class="date">2026</span><div><a class="title" href="https://doi.org/10.1007/978-3-032-37664-0_26" style="text-decoration: none">Multi-depth Concept Extraction for Post-Hoc Vision Encoder Explanation</a><span class="meta">A. Boubekki, S. G. Fadel, S. Mair. ECML PKDD, Springer.</span></div><a class="go" href="https://doi.org/10.1007/978-3-032-37664-0_26">Paper</a></li>
+  <li><span class="date">2024</span><div><a class="title" href="/assets/pdf/Pantypes_AAAI.pdf" style="text-decoration: none">Pantypes: Diverse Representatives for Self-Explainable Models</a><span class="meta">R. Kjærsgaard, A. Boubekki, L. H. Clemmensen. AAAI Conference on Artificial Intelligence.</span></div><a class="go" href="/assets/pdf/Pantypes_AAAI.pdf">Paper</a></li>
+  <li><span class="date">2023</span><div><a class="title" href="https://sigport.org/sites/default/files/docs/ICASSP_2k23.pdf" style="text-decoration: none">SuperCM: Revisiting Clustering for Semi-Supervised Learning</a><span class="meta">D. Singh, A. Boubekki, R. Jenssen, M. Kampffmeyer. IEEE ICASSP.</span></div><a class="go" href="https://sigport.org/sites/default/files/docs/ICASSP_2k23.pdf">Paper</a></li>
+  <li><span class="date">2022</span><div><a class="title" href="https://arxiv.org/pdf/2210.08151" style="text-decoration: none">ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model</a><span class="meta">S. Gautam, A. Boubekki, S. Hansen, S. A. Salahuddin, R. Jenssen, M. Höhne, M. Kampffmeyer. Advances in Neural Information Processing Systems.</span></div><a class="go" href="https://arxiv.org/pdf/2210.08151">Paper</a></li>
+  <li><span class="date">2018</span><div><a class="title" href="https://openreview.net/pdf?id=_lxJN02SXKQ" style="text-decoration: none">Infinite Mixtures of Markov Chains</a><span class="meta">J. Reubold, A. Boubekki, T. Strufe, U. Brefeld. New Frontiers in Mining Complex Patterns, LNAI 10785, Springer.</span></div><a class="go" href="https://openreview.net/pdf?id=_lxJN02SXKQ">Paper</a></li>
+  <li><span class="date">2018</span><div><a class="title" href="https://files.eric.ed.gov/fulltext/ED593110.pdf" style="text-decoration: none">Mining User Trajectories in Electronic Text Books</a><span class="meta">A. Boubekki, S. Jain, U. Brefeld. Educational Data Mining.</span></div><a class="go" href="https://files.eric.ed.gov/fulltext/ED593110.pdf">Paper</a></li>
+  <li><span class="date">2017</span><div><a class="title" href="http://proceedings.mlr.press/v70/mair17a.html" style="text-decoration: none">Frame-based Data Factorizations</a><span class="meta">S. Mair, A. Boubekki, U. Brefeld. International Conference on Machine Learning.</span></div><a class="go" href="http://proceedings.mlr.press/v70/mair17a.html">Paper</a></li>
+  <li><span class="date">2015</span><div><a class="title" href="https://ieeexplore.ieee.org/abstract/document/7344897" style="text-decoration: none">Constrained Independence for Detecting Interesting Patterns</a><span class="meta">T. Delacroix, A. Boubekki, P. Lenca, S. Lallich. International Conference on Data Science and Advanced Analytics (DSAA).</span></div><a class="go" href="https://ieeexplore.ieee.org/abstract/document/7344897">Paper</a></li>
+  <li><span class="date">2015</span><div><span class="title">Toward Data-Driven Analyses of Electronic Text Books</span><span class="meta">A. Boubekki, U. Kröhne, F. Goldhammer, W. Schreiber, U. Brefeld. Educational Data Mining.</span></div><span></span></li>
+  <li><span class="date">2015</span><div><span class="title">Generalising IRT to Discriminate Between Examinees</span><span class="meta">A. Boubekki, U. Brefeld, T. Delacroix. Educational Data Mining.</span></div><span></span></li>
+</ol>
+
+<h2>Reviewed international workshops</h2>
+<ol class="rows">
+  <li><span class="date">2026</span><div><a class="title" href="https://arxiv.org/pdf/2603.28466" style="text-decoration: none">Post-hoc Self-explanation of CNNs</a><span class="meta">A. Boubekki, L. Clemmensen. ICLR 2026 Workshop on Unifying Concept Representation Learning.</span></div><a class="go" href="https://arxiv.org/pdf/2603.28466">Paper</a></li>
+  <li><span class="date">2025</span><div><span class="title">WiseLVAM: A Novel Framework For Left Ventricle Automatic Measurements</span><span class="meta">D. Singh, A. Boubekki, Q. Cao, S. A. Aase, R. Jenssen, M. Kampffmeyer. ASMUS workshop, MICCAI.</span></div><span></span></li>
+  <li><span class="date">2024</span><div><a class="title" href="https://arxiv.org/pdf/2409.14590" style="text-decoration: none">Explainable AI needs formal notions of explanation correctness</a><span class="meta">S. Haufe, R. Wilming, B. Clark, R. Zhumagambetov, D. Panknin, A. Boubekki. NeurIPS Workshop: Interpretable AI: Past, Present and Future.</span></div><a class="go" href="https://arxiv.org/pdf/2409.14590">Paper</a></li>
+  <li><span class="date">2017</span><div><a class="title" href="http://www.di.uniba.it/~loglisci/NFmcp17/NFMCP_2017_paper_2.pdf" style="text-decoration: none">Bayesian User Behavior Models</a><span class="meta">J. Reubold, A. Boubekki, T. Strufe, U. Brefeld. ECML PKDD Workshop on New Frontiers in Mining Complex Patterns.</span></div><a class="go" href="http://www.di.uniba.it/~loglisci/NFmcp17/NFMCP_2017_paper_2.pdf">Paper</a></li>
+</ol>
+
+<h2>Books and book chapters</h2>
+<ol class="rows">
+  <li><span class="date">2017</span><div><span class="title">Erklärung der Kompetenzentwicklung im Fach Geschichte mithilfe von Indikatoren zur Quantität und Qualität der Nutzung eines elektronischen Schulbuchs (QQM)</span><span class="meta">W. Schreiber, U. Trautwein, U. Brefeld, C. Bertram, A. Boubekki, W. Wagner, M. Werner. Katholische Universität Eichstätt-Ingolstadt.</span></div><span></span></li>
+  <li><span class="date">2016</span><div><a class="title" href="https://doi.org/10.1007/978-3-319-41706-6_20" style="text-decoration: none">Data-Driven Analyses of Electronic Text Books</a><span class="meta">A. Boubekki, U. Kröhne, F. Goldhammer, W. Schreiber, U. Brefeld. Solving Large Scale Learning Tasks, LNAI 9580, Springer, 362–376.</span></div><a class="go" href="https://doi.org/10.1007/978-3-319-41706-6_20">Paper</a></li>
+</ol>
+
+<h2>Reviewed national conferences and workshops</h2>
+<ol class="rows">
+  <li><span class="date">2025</span><div><a class="title" href="https://doi.org/10.1016/j.measen.2024.101789" style="text-decoration: none">Metrology for artificial intelligence in medicine</a><span class="meta">H. Rabus et al.. XXIV IMEKO World Congress.</span></div><a class="go" href="https://doi.org/10.1016/j.measen.2024.101789">Paper</a></li>
+  <li><span class="date">2024</span><div><a class="title" href="https://arxiv.org/abs/2405.12261" style="text-decoration: none">EXACT: Towards a Platform for Empirically Benchmarking Machine Learning Model Explanation Methods</a><span class="meta">B. Clark et al.. IMEKO 2024, arXiv:2405.12261.</span></div><a class="go" href="https://arxiv.org/abs/2405.12261">Paper</a></li>
+  <li><span class="date">2017</span><div><a class="title" href="https://mediatum.ub.tum.de/doc/1380314/ckn6u6a9ezuyoeg5iqf27q7ub.OnlineMultiObject.pdf#page=89" style="text-decoration: none">Propagating Maximum Capacities for Recommendation</a><span class="meta">A. Boubekki, C. L. Lucchesi, U. Brefeld, W. Stille. German Conference on Artificial Intelligence (KI).</span></div><a class="go" href="https://mediatum.ub.tum.de/doc/1380314/ckn6u6a9ezuyoeg5iqf27q7ub.OnlineMultiObject.pdf#page=89">Paper</a></li>
+  <li><span class="date">2017</span><div><span class="title">Frame-based Matrix Factorizations</span><span class="meta">S. Mair, A. Boubekki, U. Brefeld. LWA Workshop on Knowledge Discovery, Data Mining and Machine Learning.</span></div><span></span></li>
+  <li><span class="date">2014</span><div><span class="title">Mining Implications From Data</span><span class="meta">A. Boubekki, D. Bengs. LWDA Workshop on Knowledge Discovery, Data Mining and Machine Learning.</span></div><span></span></li>
+</ol>
+
+<h2>Under review and reports</h2>
+<ol class="rows">
+  <li><span class="date">2026</span><div><span class="title">Local Label-Informed Feature Transfer for Generating Ground-Truth Medical Images: A Comparison of GAN- and Diffusion-Based Approaches</span><span class="meta">R. Wilming, I. Ozseker, L. M. Cornils, A. Boubekki, B. Clark, D. Panknin, S. Haufe. Under review.</span></div><span></span></li>
+  <li><span class="date">2024</span><div><a class="title" href="https://arxiv.org/pdf/2406.04933" style="text-decoration: none">Leveraging Activations for Superpixel Explanations</a><span class="meta">A. Boubekki, S. Fadel, S. Mair. arXiv:2406.04933.</span></div><a class="go" href="https://arxiv.org/pdf/2406.04933">Paper</a></li>
+</ol>

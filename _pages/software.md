@@ -1,27 +1,25 @@
 ---
-layout: page
+layout: plain
 title: software
 permalink: /software/
-description: Open-source tools from my research.
-nav: true
-nav_order: 3
+description: Open-source software by Ahcène Boubekki.
 ---
 
-<!-- Each software has its own page in _pages/software/, with "software: true" in its front matter (and
-     order, summary, img): it then appears here as a card. -->
+<h1 class="page-title">Software</h1>
+<p class="page-lead">Open-source code from my research, and a small app.</p>
+
+<!-- Each software has its own page in _pages/software/, with "software: true" in its front matter
+     (and order, summary, img, tech): it then appears here as a card. -->
 {% assign items = site.pages | where: "software", true | sort: "order" %}
-<div class="row">
+<div class="cards">
 {% for s in items %}
-  <div class="col-sm-6 mb-4">
-    <a href="{{ s.url | relative_url }}" style="text-decoration: none; color: inherit;">
-      <div class="card h-100">
-        {% if s.img %}<img src="{{ s.img }}" class="card-img-top" alt="{{ s.title }}">{% endif %}
-        <div class="card-body">
-          <h4 class="card-title" style="color: #000;">{{ s.title }}</h4>
-          <p class="card-text" style="color: #333;">{{ s.summary }}</p>
-        </div>
-      </div>
-    </a>
-  </div>
+  <a class="card" href="{{ s.url | relative_url }}">
+    {% if s.img %}<img src="{{ s.img | relative_url }}" alt="">{% endif %}
+    <div class="body">
+      <h3>{{ s.title }}</h3>
+      <p>{{ s.summary }}</p>
+      {% if s.tech %}<span class="tech">{{ s.tech }}</span>{% endif %}
+    </div>
+  </a>
 {% endfor %}
 </div>
