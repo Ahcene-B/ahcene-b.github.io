@@ -92,7 +92,7 @@ description: Ahcène Boubekki, postdoctoral researcher at the University of Cope
     <div class="cards">
       <a class="card" href="{{ '/software/nave-xai/' | relative_url }}">
         <img src="https://raw.githubusercontent.com/Ahcene-B/NAVE/main/docs/assets/example.png" alt="">
-        <div class="body"><h3>nave-xai</h3><p>NAVE explanations of CNN and ViT encoders, extended to time-series and text encoders. Includes a GIMP 3 plugin.</p><span class="tech">Python package, MIT license</span></div>
+        <div class="body"><h3>nave-xai</h3><p>NAVE explanations of CNN and ViT encoders, extended to time-series and text encoders. Includes a GIMP 3 plugin.</p><span class="tech">Python package on PyPI, MIT license</span></div>
       </a>
       <a class="card" href="{{ '/software/admuter/' | relative_url }}">
         <img src="{{ '/assets/img/admuter.png' | relative_url }}" alt="">

@@ -9,7 +9,7 @@ summary: >
   NAVE explanations of frozen encoders (CNNs, ViTs, 1D models, text): which concepts they extract, and where.
   The official package of the ECML PKDD 2026 paper, with notebooks to run on Google Colab and a GIMP plugin.
 img: https://raw.githubusercontent.com/Ahcene-B/NAVE/main/docs/assets/example.png
-tech: Python package, MIT license
+tech: Python package on PyPI, MIT license
 ---
 
 <h1 class="page-title">nave-xai</h1>
@@ -29,9 +29,10 @@ without supervision, and maps them back onto the input: an explanation of the en
 - **A GIMP plugin:** NAVE superpixels in GIMP 3, *Filters › Generic › NAVE Superpixels…*
 
 ```bash
-pip install "nave-xai @ git+https://github.com/Ahcene-B/NAVE.git"
+pip install nave-xai
 ```
 
+[PyPI](https://pypi.org/project/nave-xai/) ·
 [Code on GitHub](https://github.com/Ahcene-B/NAVE) ·
 [Documentation](https://ahcene-b.github.io/NAVE/) ·
 [Paper](https://doi.org/10.1007/978-3-032-37664-0_26) ·
